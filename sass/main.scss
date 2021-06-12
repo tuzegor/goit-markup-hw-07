@@ -5,6 +5,7 @@
 @import './base/common';
 @import './base/container';
 @import './base/section-title';
+@import './base/secondary-title';
 // COMPONENTS
 @import './components/logo';
 @import './components/button';
@@ -13,9 +14,9 @@
 // LAYOUT
 @import './layout/header';
 @import './layout/hero';
-@import './layout/our-values';
-@import './layout/our-projects';
-@import './layout/our-team';
+@import './layout/values';
+@import './layout/projects';
+@import './layout/team';
 @import './layout/clients';
 @import './layout/footer';
 @import './layout/modal-backdrop';
