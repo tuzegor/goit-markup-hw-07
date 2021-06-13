@@ -32,7 +32,7 @@ img {
 body {
   background-color: #fff;
   color: var(--primary-color);
-  font-family: Roboto, sans-serif;
+  font-family: $primaryFontFamily;
   font-size: 14px;
   letter-spacing: 0.03em;
 }
